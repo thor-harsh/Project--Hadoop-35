@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project We will use MapReduce with Python to do an amazing stuff.Here we will build movie recommendations.** <br></br> We will recommend similar movies based on score and numPairs i.e that is no. of different users rated these movies where score and numPairs will be calculated using cosine similarity.<br></br>
+**In this project We will use MapReduce with Python to do an amazing stuff.Here we will build movie recommendations using Item based Collaborative Filtering** <br></br> We will recommend similar movies based on score and numPairs i.e that is no. of different users rated these movies where score and numPairs will be calculated using cosine similarity.<br></br>
 
 **Before jumping to the code lets understand MapReduce First**...<br></br>
 
