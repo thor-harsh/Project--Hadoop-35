@@ -2,10 +2,7 @@
 
 <table>
   
-**In this project We will use MapReduce with Python to do an amazing stuff.Here We will calculate total count of each words in Book.txt file.** <br></br>
-
-Here will use combiners in addition to mapper and reducer to do some reducing job in mapper node itself before giving the jobs to reducer.
-Both Mapper and Reducer will have the same output and input. It just decreases the network traffic in our cluster.
+**In this project We will use MapReduce with Python to do an amazing stuff.Here we will build movie recommendations. We will recommend similar movies based on score and numPairs i.e that is no. of different users rated these movies where score and numPairs will be calculated using cosine similarity.** <br></br>
 
 **Before jumping to the code lets understand MapReduce First**...<br></br>
 
