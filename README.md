@@ -16,7 +16,7 @@ A MapReduce program is composed of a map procedure, which performs filtering and
 Recommender systems are an important class of machine learning algorithms that offer “relevant” suggestions to users. Youtube, Amazon, Netflix, all function on recommendation systems where the system recommends you the next video or product based on your past activity (Content-based Filtering) or based on activities and preferences of other users similar to you (Collaborative Filtering). Likewise, Facebook also uses a recommendation system to suggest Facebook users you may know offline.
 
 
-**Important Note: Go through the Book.txt file before jumping to the code.**
+**Important Note: Go through the u.data and u.item files before jumping to the code.**
 
 
 </table>
